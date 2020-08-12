@@ -124,3 +124,7 @@ git push gitee master -f复制代码
 ![强制推送到远程分支](http://cdn.jayh.club/blog/20200810/ctzlMgeGvdSi.png?imageslim)
 
 强制推送到远程分支
+
+
+
+文章来源 https://juejin.im/post/6859388700858679303
